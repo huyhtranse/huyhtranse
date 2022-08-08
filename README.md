@@ -25,9 +25,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/huyhtranse">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huyhtranse&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyhtranse&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -35,9 +35,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/huyhtranse/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Huy%20Tran-blue?style=flat-square&logo=linkedin"></a>
-<-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
+<!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
 <a href="mailto:huyhtranse@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-huyhtranse@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
